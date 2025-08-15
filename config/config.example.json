@@ -1,0 +1,8 @@
+{
+  "OPENAI_API_KEY": "replace-with-your-api-key",
+  "EMBEDDING_MODEL": "text-embedding-3-small",
+  "CHAT_MODEL": "gpt-4o-mini",
+  "TOP_K_RESULTS": 5,
+  "CHUNK_SIZE": 800,
+  "CHUNK_OVERLAP": 120
+}
